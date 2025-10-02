@@ -5,4 +5,5 @@ This is a demo app for the Git course.
  * add new features
  * fix the bugs
  * some corrections
+ * some more corrections added
 
